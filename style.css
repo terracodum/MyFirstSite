@@ -1,5 +1,6 @@
 body {
   min-width: 850px;
+  min-height: 556px;
 }
 
 h1 {
@@ -41,6 +42,7 @@ div {
   margin: 0 auto 20px;
   text-align: center;
   background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+  background-size: 500px;
 }
 
 h3 {
